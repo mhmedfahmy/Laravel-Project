@@ -1,4 +1,4 @@
-<h2>This is a Laravel Project I made it as a portfolio.</h2>
+This is a Laravel Project I made it as a portfolio.
 <br>
 ![image](https://user-images.githubusercontent.com/38375272/40233201-4b13c22a-5aa2-11e8-9d17-350fae357916.png)
 <br>
